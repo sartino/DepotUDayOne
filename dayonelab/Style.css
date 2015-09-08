@@ -66,28 +66,78 @@
 #projectsbody {
     padding: 70px;
 }
-#experience {
+#experiencehead {
     font-family: Garamond;
     text-align: center;
     line-height: 1%;
 }
-#experience1 h6 {
-    padding: 10px;
+#experience1 {
     font-family: Garamond;
+    padding: 0px;
+    line-height: 5%;
+}
+#experience1 h6 {
     font-size: 14px;
+    font-style: italic;
+    color: #90C3D4;
+    font-family: Garamond;
+    text-indent: 10px;
+    line-height: 5%;
+}
+#experience1 p {
+    text-indent: 10px;
 }
 #experience2 {
-    padding: 10px;
     font-family: Garamond;
+    padding: 0px;
+    line-height: 5%;
+}
+#experience2 h6 {
     font-size: 14px;
+    font-style: italic;
+    color: #90C3D4;
+    font-family: Garamond;
+    text-indent: 10px;
+    line-height: 5%;
+}
+#experience2 p {
+    text-indent: 10px;
 }
 #experience3 {
-    padding: 10px;
     font-family: Garamond;
+    padding: 0px;
+    line-height: 5%;
+}
+#experience3 h6 {
     font-size: 14px;
+    font-style: italic;
+    color: #90C3D4;
+    font-family: Garamond;
+    text-indent: 10px;
+    line-height: 5%;
+}
+#experience3 p {
+    text-indent: 10px;
 }
 #experience4 {
-    padding: 10px;
     font-family: Garamond;
-    font-size: 14px;
+    padding: 0px;
+    line-height: 5%;
 }
+#experience4 h6 {
+    font-size: 14px;
+    font-style: italic;
+    color: #90C3D4;
+    font-family: Garamond;
+    text-indent: 10px;
+    line-height: 5%;
+}
+#experience4 p {
+    text-indent: 10px;
+}
+#educationhead {
+    font-family: Garamond;
+    text-align: center;
+    line-height: 1%;
+}
+
