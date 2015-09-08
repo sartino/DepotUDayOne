@@ -25,3 +25,12 @@
     color: black;   
     background-color: orange;
 }
+#header1 {
+    font-family: Garamond;
+    text-align: center;
+    line-height: 50%;
+}
+#abouttype {
+    text-align: center;
+    line-height: 1%;
+}
