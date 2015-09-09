@@ -167,3 +167,13 @@
    font-size: 12px; 
    padding: 20px;
 }
+#footer {
+    font-family: Garamond;
+    text-align: center;
+    word-spacing: 20px;
+    color: #90C3D4;
+    line-height: 5px;
+}
+#footer a {
+    text-decoration: none;
+}
