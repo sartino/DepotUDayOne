@@ -146,7 +146,12 @@
     line-height: 1%;
 }
 #box {
+    text-align: center;
     background-color: #90C3D4;
+    width: 400px;
+    height: 400px;
     margin-left: 40px;
     margin-right: 40px;
+    border-radius: 10px;
+    margin: auto;
 }
