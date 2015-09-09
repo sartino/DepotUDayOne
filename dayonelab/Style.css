@@ -46,6 +46,7 @@
     -webkit-column-count: 2;
     column-count: 2;
     -webkit-column-gap: 100px;
+    column-gap: 100px;
     padding: 50px;
 }
 #skills {
@@ -60,6 +61,7 @@
     -webkit-column-count: 2;
     column-count: 2;
     -webkit-column-gap: 100px;
+    column-gap: 100px;
     padding: 50px;
 }
 #projects {
@@ -152,10 +154,16 @@
 #box {
     text-align: center;
     background-color: #90C3D4;
-    width: 400px;
+    width: 500px;
     height: 400px;
     margin-left: 40px;
     margin-right: 40px;
     border-radius: 10px;
+    border: 2px solid gray;
     margin: auto;
+}
+#box form {
+   color: white;
+   font-size: 12px; 
+   padding: 20px;
 }
