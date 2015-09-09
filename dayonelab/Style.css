@@ -83,6 +83,7 @@
     font-family: Garamond;
     padding: 0px;
     line-height: 5%;
+    margin: 0px 0px 0px 75px;
 }
 #experience1 h6 {
     font-size: 14px;
@@ -94,11 +95,13 @@
 }
 #experience1 p {
     text-indent: 10px;
+    line-height: 2px;
 }
 #experience2 {
     font-family: Garamond;
     padding: 0px;
-    line-height: 5%;
+    line-height: 0px;
+    margin: 0px 0px 0px 75px;
 }
 #experience2 h6 {
     font-size: 14px;
@@ -115,6 +118,7 @@
     font-family: Garamond;
     padding: 0px;
     line-height: 5%;
+    margin: 0px 0px 0px 75px;
 }
 #experience3 h6 {
     font-size: 14px;
@@ -131,6 +135,7 @@
     font-family: Garamond;
     padding: 0px;
     line-height: 5%;
+    margin: 0px 0px 0px 75px;
 }
 #experience4 h6 {
     font-size: 14px;
@@ -182,4 +187,9 @@
 #educationbody {
     font-family: Garamond;
     line-height: 3px;
+    margin: 0px 0px 0px 75px;
+}
+#footer a:hover {
+    color: black;   
+    background-color: orange;
 }
